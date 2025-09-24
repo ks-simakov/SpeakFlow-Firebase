@@ -15,3 +15,12 @@ To deploy the SpeakFlow Firebase functions, follow these steps:
    ```
    firebase deploy
    ```
+
+4. **Development**: For local development and testing of your functions, you can use the Firebase Emulator Suite. Start the emulator by running:
+   ```
+   firebase emulators:start
+   ```
+   or
+   ```
+   npm run serve
+   ```

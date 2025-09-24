@@ -30,6 +30,7 @@ module.exports = {
 		"import/no-unresolved": 0,
 		"indent": ["error", "tab", {"SwitchCase": 1}],
 		"no-tabs": "off",
+		"operator-linebreak": "off",
 		"max-len": "off",
 		"require-jsdoc": "off",
 		"no-unused-vars": "off",
